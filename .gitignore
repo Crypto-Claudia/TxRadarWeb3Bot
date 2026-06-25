@@ -12,3 +12,6 @@ __pycache__/
 
 # Mac OS
 .DS_Store
+
+# Script
+Git_Pull.bat
