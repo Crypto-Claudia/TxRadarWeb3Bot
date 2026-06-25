@@ -1,0 +1,14 @@
+# Environment Variables
+.env
+.env.local
+
+# Logs
+*.log
+
+# Dirs
+.venv/
+img/
+__pycache__/
+
+# Mac OS
+.DS_Store
